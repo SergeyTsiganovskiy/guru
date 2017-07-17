@@ -1,4 +1,4 @@
-package com.guru99;
+package com.guru99._1_lesson.my;
 
 import org.junit.Assert;
 import org.openqa.selenium.By;
