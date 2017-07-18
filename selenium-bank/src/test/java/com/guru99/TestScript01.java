@@ -46,6 +46,8 @@ public class TestScript01 {
     // Click Login
     driver.findElement(By.name("btnLogin")).click();
 
+    driver.quit();
+
 
   }
 
