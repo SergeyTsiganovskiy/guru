@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/../untitled1/.idea/modules/selenium-ecommerce.iml" filepath="$PROJECT_DIR$/../untitled1/.idea/modules/selenium-ecommerce.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium-ecommerce_main.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium-ecommerce_main.iml" group="selenium-ecommerce" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium-ecommerce_test.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium-ecommerce_test.iml" group="selenium-ecommerce" />
+      <module fileurl="file://$PROJECT_DIR$/../untitled2/.idea/modules/selenium-tutorial.iml" filepath="$PROJECT_DIR$/../untitled2/.idea/modules/selenium-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium-tutorial_main.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium-tutorial_main.iml" group="selenium-tutorial" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium-tutorial_test.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium-tutorial_test.iml" group="selenium-tutorial" />
     </modules>
   </component>
 </project>

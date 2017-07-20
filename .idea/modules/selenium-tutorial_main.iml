@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id="selenium-bank:main" external.linked.project.path="$MODULE_DIR$/../../selenium-bank" external.root.project.path="$MODULE_DIR$/../../selenium-bank" external.system.id="GRADLE" external.system.module.group="selenium" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+<module external.linked.project.id="selenium-tutorial:main" external.linked.project.path="$MODULE_DIR$/../../selenium-tutorial" external.root.project.path="$MODULE_DIR$/../../selenium-tutorial" external.system.id="GRADLE" external.system.module.group="selenium" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
-    <output url="file://$MODULE_DIR$/../../selenium-bank/build/classes/main" />
+    <output url="file://$MODULE_DIR$/../../selenium-tutorial/build/classes/main" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../selenium-bank/src/main">
-      <sourceFolder url="file://$MODULE_DIR$/../../selenium-bank/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../selenium-bank/src/main/resources" type="java-resource" />
+    <content url="file://$MODULE_DIR$/../../selenium-tutorial/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../selenium-tutorial/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../selenium-tutorial/src/main/resources" type="java-resource" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Gradle: org.testng:testng:6.11" level="project" />
     <orderEntry type="library" name="Gradle: org.seleniumhq.selenium:selenium-java:3.4.0" level="project" />
-    <orderEntry type="library" name="Gradle: net.sourceforge.jexcelapi:jxl:2.6.12" level="project" />
     <orderEntry type="library" name="Gradle: com.beust:jcommander:1.64" level="project" />
     <orderEntry type="library" name="Gradle: org.yaml:snakeyaml:1.17" level="project" />
     <orderEntry type="library" name="Gradle: org.seleniumhq.selenium:selenium-api:3.4.0" level="project" />
@@ -53,7 +52,6 @@
     <orderEntry type="library" name="Gradle: xalan:xalan:2.7.2" level="project" />
     <orderEntry type="library" name="Gradle: xerces:xercesImpl:2.11.0" level="project" />
     <orderEntry type="library" name="Gradle: xml-apis:xml-apis:1.4.01" level="project" />
-    <orderEntry type="library" name="Gradle: log4j:log4j:1.2.14" level="project" />
     <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-client:9.4.3.v20170317" level="project" />
     <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-http:9.4.3.v20170317" level="project" />
     <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-util:9.4.3.v20170317" level="project" />

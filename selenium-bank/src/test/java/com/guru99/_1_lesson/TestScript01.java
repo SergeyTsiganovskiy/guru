@@ -1,4 +1,4 @@
-package com.guru99;
+package com.guru99._1_lesson;
 
 /*
  * Set of test script for testing Website Guru99 Bank

@@ -6,6 +6,8 @@
       <module name="selenium-bank_test" target="1.8" />
       <module name="selenium-ecommerce_main" target="1.8" />
       <module name="selenium-ecommerce_test" target="1.8" />
+      <module name="selenium-tutorial_main" target="1.8" />
+      <module name="selenium-tutorial_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
